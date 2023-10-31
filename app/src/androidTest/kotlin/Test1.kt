@@ -3,5 +3,5 @@ class Test1 {
 }
 
 fun main() {
-    println("Hello2")
+    println("Hello1212")
 }
